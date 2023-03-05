@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Array\bin\Debug\Array.exe.config
+C:\Users\Ivan\source\repos\Variables\Array\bin\Debug\Array.exe
+C:\Users\Ivan\source\repos\Variables\Array\bin\Debug\Array.pdb
+C:\Users\Ivan\source\repos\Variables\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Array\obj\Debug\Array.exe
+C:\Users\Ivan\source\repos\Variables\Array\obj\Debug\Array.pdb

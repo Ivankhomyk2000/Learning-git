@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Math\bin\Debug\Math.exe.config
+C:\Users\Ivan\source\repos\Variables\Math\bin\Debug\Math.exe
+C:\Users\Ivan\source\repos\Variables\Math\bin\Debug\Math.pdb
+C:\Users\Ivan\source\repos\Variables\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Math\obj\Debug\Math.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Math\obj\Debug\Math.exe
+C:\Users\Ivan\source\repos\Variables\Math\obj\Debug\Math.pdb

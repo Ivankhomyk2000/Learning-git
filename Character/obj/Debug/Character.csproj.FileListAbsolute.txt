@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Character\bin\Debug\Character.exe.config
+C:\Users\Ivan\source\repos\Variables\Character\bin\Debug\Character.exe
+C:\Users\Ivan\source\repos\Variables\Character\bin\Debug\Character.pdb
+C:\Users\Ivan\source\repos\Variables\Character\obj\Debug\Character.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Character\obj\Debug\Character.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Character\obj\Debug\Character.exe
+C:\Users\Ivan\source\repos\Variables\Character\obj\Debug\Character.pdb

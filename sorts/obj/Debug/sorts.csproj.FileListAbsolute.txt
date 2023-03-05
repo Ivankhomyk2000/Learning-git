@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\sorts\bin\Debug\sorts.exe.config
+C:\Users\Ivan\source\repos\Variables\sorts\bin\Debug\sorts.exe
+C:\Users\Ivan\source\repos\Variables\sorts\bin\Debug\sorts.pdb
+C:\Users\Ivan\source\repos\Variables\sorts\obj\Debug\sorts.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\sorts\obj\Debug\sorts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\sorts\obj\Debug\sorts.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\sorts\obj\Debug\sorts.exe
+C:\Users\Ivan\source\repos\Variables\sorts\obj\Debug\sorts.pdb

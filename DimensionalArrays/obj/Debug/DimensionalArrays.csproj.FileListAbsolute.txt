@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\bin\Debug\DimensionalArrays.exe.config
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\bin\Debug\DimensionalArrays.exe
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\bin\Debug\DimensionalArrays.pdb
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\obj\Debug\DimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\obj\Debug\DimensionalArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\obj\Debug\DimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\obj\Debug\DimensionalArrays.exe
+C:\Users\Ivan\source\repos\Variables\DimensionalArrays\obj\Debug\DimensionalArrays.pdb

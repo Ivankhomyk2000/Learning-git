@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\bin\Debug\LOOP MENU.exe.config
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\bin\Debug\LOOP MENU.exe
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\bin\Debug\LOOP MENU.pdb
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\obj\Debug\LOOP MENU.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\obj\Debug\LOOP MENU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\obj\Debug\LOOP MENU.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\obj\Debug\LOOP MENU.exe
+C:\Users\Ivan\source\repos\Variables\LOOP MENU\obj\Debug\LOOP MENU.pdb

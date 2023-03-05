@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Triks string\bin\Debug\Triks string.exe.config
+C:\Users\Ivan\source\repos\Variables\Triks string\bin\Debug\Triks string.exe
+C:\Users\Ivan\source\repos\Variables\Triks string\bin\Debug\Triks string.pdb
+C:\Users\Ivan\source\repos\Variables\Triks string\obj\Debug\Triks string.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Triks string\obj\Debug\Triks string.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Triks string\obj\Debug\Triks string.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Triks string\obj\Debug\Triks string.exe
+C:\Users\Ivan\source\repos\Variables\Triks string\obj\Debug\Triks string.pdb

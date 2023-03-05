@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\ConSole\bin\Debug\ConSole.exe.config
+C:\Users\Ivan\source\repos\Variables\ConSole\bin\Debug\ConSole.exe
+C:\Users\Ivan\source\repos\Variables\ConSole\bin\Debug\ConSole.pdb
+C:\Users\Ivan\source\repos\Variables\ConSole\obj\Debug\ConSole.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\ConSole\obj\Debug\ConSole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\ConSole\obj\Debug\ConSole.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\ConSole\obj\Debug\ConSole.exe
+C:\Users\Ivan\source\repos\Variables\ConSole\obj\Debug\ConSole.pdb

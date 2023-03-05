@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\bin\Debug\0.2 IntegreDataTypes.exe.config
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\bin\Debug\0.2 IntegreDataTypes.exe
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\bin\Debug\0.2 IntegreDataTypes.pdb
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\obj\Debug\0.2 IntegreDataTypes.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\obj\Debug\0.2 IntegreDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\obj\Debug\0.2 IntegreDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\obj\Debug\0.2 IntegreDataTypes.exe
+C:\Users\Ivan\source\repos\Variables\0.2 IntegreDataTypes\obj\Debug\0.2 IntegreDataTypes.pdb

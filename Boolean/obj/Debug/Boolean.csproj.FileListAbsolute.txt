@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\Ivan\source\repos\Variables\Boolean\bin\Debug\Boolean.exe
+C:\Users\Ivan\source\repos\Variables\Boolean\bin\Debug\Boolean.pdb
+C:\Users\Ivan\source\repos\Variables\Boolean\obj\Debug\Boolean.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Boolean\obj\Debug\Boolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Boolean\obj\Debug\Boolean.exe
+C:\Users\Ivan\source\repos\Variables\Boolean\obj\Debug\Boolean.pdb

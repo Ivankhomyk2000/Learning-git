@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\GAme loops\bin\Debug\GAme loops.exe.config
+C:\Users\Ivan\source\repos\Variables\GAme loops\bin\Debug\GAme loops.exe
+C:\Users\Ivan\source\repos\Variables\GAme loops\bin\Debug\GAme loops.pdb
+C:\Users\Ivan\source\repos\Variables\GAme loops\obj\Debug\GAme loops.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\GAme loops\obj\Debug\GAme loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\GAme loops\obj\Debug\GAme loops.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\GAme loops\obj\Debug\GAme loops.exe
+C:\Users\Ivan\source\repos\Variables\GAme loops\obj\Debug\GAme loops.pdb

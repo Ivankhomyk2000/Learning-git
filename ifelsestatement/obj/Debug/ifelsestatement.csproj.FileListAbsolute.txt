@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\bin\Debug\ifelsestatement.exe.config
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\bin\Debug\ifelsestatement.exe
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\bin\Debug\ifelsestatement.pdb
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\obj\Debug\ifelsestatement.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\obj\Debug\ifelsestatement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\obj\Debug\ifelsestatement.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\obj\Debug\ifelsestatement.exe
+C:\Users\Ivan\source\repos\Variables\ifelsestatement\obj\Debug\ifelsestatement.pdb
