@@ -1,16 +1,8 @@
 ﻿using System;
-    internal class Program
+internal class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-        /*
-        int counter = 0;
-        while (counter < 10)
-        {
-            Console.WriteLine("I'm learning loops now");
-            counter++;
-        }
-        */
         int number = 0;
         int min = 20;
         int max = 30;
@@ -27,10 +19,10 @@
             }
             else
             {
-                Console.WriteLine("Please input another number."); 
+                Console.WriteLine("Please input another number.");
             }
         }
 
-        }
     }
+}
 
