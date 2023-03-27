@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\bin\Debug\_04.Images.exe.config
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\bin\Debug\_04.Images.exe
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\bin\Debug\_04.Images.pdb
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\obj\Debug\04. Images.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\obj\Debug\04. Images.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\obj\Debug\_04.Images.exe
+C:\Users\Darkbound\source\repos\MultidimensionalArrays\04. Images\obj\Debug\_04.Images.pdb

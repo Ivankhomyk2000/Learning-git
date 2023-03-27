@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\Image\bin\Debug\Image.exe.config
+C:\Users\Ivan\source\repos\Variables\Image\bin\Debug\Image.exe
+C:\Users\Ivan\source\repos\Variables\Image\bin\Debug\Image.pdb
+C:\Users\Ivan\source\repos\Variables\Image\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\Image\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\Image\obj\Debug\Image.exe
+C:\Users\Ivan\source\repos\Variables\Image\obj\Debug\Image.pdb
