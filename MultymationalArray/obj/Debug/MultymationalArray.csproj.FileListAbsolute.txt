@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\bin\Debug\MultymationalArray.exe.config
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\bin\Debug\MultymationalArray.exe
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\bin\Debug\MultymationalArray.pdb
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\obj\Debug\MultymationalArray.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\obj\Debug\MultymationalArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\obj\Debug\MultymationalArray.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\obj\Debug\MultymationalArray.exe
+C:\Users\Ivan\source\repos\Variables\MultymationalArray\obj\Debug\MultymationalArray.pdb
